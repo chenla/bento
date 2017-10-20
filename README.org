@@ -1,0 +1,28 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+
+* Bento Box | README
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/bento/README.org
+:Created:  2017-10-20T17:48@Prek Leap (11.642600N-104.919210W)
+:ID:       4bf73455-1e91-4502-8221-4fdaebf49fc3
+:VER:      561768594.120181021
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:RVC3-1660
+:Class:    deploy
+:Type:     readme
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-readme-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+Specifications and designs for the Bento Box modular infrastructure system.
+
+
