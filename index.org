@@ -33,7 +33,7 @@ designs, but each module should be a concept that can be cobbled
 together from whatever is at hand.  It then becomes a bento box
 because it is a hardware and software stack that provides a certain
 set of functionality as nodes in a distributed system.  It will be a
-philosophy as much as a design software or configuration.
+philosophy as much as a design, software or configuration.
 
 Bento is the Hardware side, Saltmine will be the Software side.  So
 saltmine will not only be code we write, but any software stack that
