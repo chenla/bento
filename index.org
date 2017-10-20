@@ -15,7 +15,7 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-*  | Table of Contents
+* Bento Box | Table of Contents
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
@@ -23,4 +23,21 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
+Modular open, scalable infrastructure for a distributed civilization.
 
+We had originally thought of Bento as being a product that we would
+manufacture, with specific hardware designs.  But why?
+
+There is nothing wrong with us eventually creating Open hardware
+designs, but each module should be a concept that can be cobbled
+together from whatever is at hand.  It then becomes a bento box
+because it is a hardware and software stack that provides a certain
+set of functionality as nodes in a distributed system.  It will be a
+philosophy as much as a design software or configuration.
+
+Bento is the Hardware side, Saltmine will be the Software side.  So
+saltmine will not only be code we write, but any software stack that
+can be cobbled together to do the specified job.
+
+For this reason bento will now be taken down off the shelf, dusted off
+and become  the fourth core chenla project.
