@@ -1,6 +1,14 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
 #+TITLE:   Bento Box | TOC
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Bento Box | Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:      /home/deerpig/proj/chenla/bento/index.org
@@ -14,14 +22,6 @@
 :Status:    wip 
 :Licence:   MIT/CC BY-SA 4.0
 :END:
-
-* Bento Box | Table of Contents
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
 
 Modular open, scalable infrastructure for a distributed civilization.
 
@@ -41,3 +41,41 @@ can be cobbled together to do the specified job.
 
 For this reason bento will now be taken down off the shelf, dusted off
 and become  the fourth core chenla project.
+
+** IaaS -- OpenStack & Ceph
+
+** SaaS -- OpenShift (docker & kubernetes)
+
+
+
+
+Our goals for 2018
+
+  - *April 2018* Pilot program of Chalkhall's Cambodian
+    Women In IT 4 year degree program.  First all female
+    class of 15-20 students.
+
+    /blending learning/ course materials as both videos and
+    text.
+
+    /mastery learning/ 
+
+    mentorship program :: 
+
+    sabbatical program ::
+
+  - *May 2018* PNCA Computer Science Degree Syllubus and
+    Curriculum.
+
+  - *June 2018* stable release of the Open Source /Bento Box
+    Distributed Cloud/ platform.  This is a soup to nuts
+    integrated open source hardware and software solution
+    for installation and running a local node as part of a
+    part of a federated hybrid cloud service for government,
+    NGOs, commercial SMBs and Enterprise scale
+    organizations.  Bento is being developed as the campus
+    IT ingrastructure for PNCA and for Kinto Cloud Services.
+
+
+
+
