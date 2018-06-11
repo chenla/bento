@@ -25,4 +25,8 @@
 
 Specifications and designs for the Bento Box modular infrastructure system.
 
+--- 
 
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/bento ]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/bento ]]
